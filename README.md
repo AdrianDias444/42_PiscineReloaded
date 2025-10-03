@@ -1,29 +1,35 @@
+k# Piscine Reloaded 🏊‍♂️
+
+42 School Piscine Reloaded - Revisiting and mastering fundamental C programming concepts.
+
 ## 📊 Progress Status
+**11/28 exercises completed** (39%)
 
-| Exercise  | Status           | Description               |
-| --------- | ---------------- | ------------------------- |
-| ex00-ex05 | ⚪ To do         | Shell scripting exercises |
-| ex06      | ✅ **Completed** | **ft_print_alphabet**     |
-| ex07      | ✅ **Completed** | **ft_print_numbers**      |
-| ex08      | ✅ **Completed** | **ft_is_negative**        |
-| ex09      | ✅ **Completed** | **ft_ft**                 |
-| ex10-ex27 | ⚪ To do         | Remaining C exercises     |
+### ✅ Completed Exercises:
+- ex06: ft_print_alphabet
+- ex07: ft_print_numbers  
+- ex08: ft_is_negative
+- ex09: ft_ft
+- ex10: ft_swap
+- ex11: ft_div_mod
+- ex12: ft_iterative_factorial
+- ex15: ft_putstr
+- ex16: ft_strlen
+- ex17: ft_strcmp
+- ex18: ft_print_params
 
-**Overall Progress: 4/28 exercises completed** (14%)
-
-## 🛠️ Technologies & Skills
-
-### 💻 **Programming Languages:**
-
-- **C** - Primary language for all exercises
+## 🛠️ Technologies
+- **C** - Primary language
 - **Shell Scripting** - Exercises 00-05
 - **Makefile** - Exercise 24
 
-### 🔧 **Core Concepts Mastered:**
+## 🎯 Skills Demonstrated
+- Pointer manipulation
+- String operations
+- Mathematical algorithms
+- Program argument handling
+- I/O operations
 
-- **Basic I/O operations**
-- **Conditional logic**
-- **Pointer manipulation**
-- **Character output**
-- **Loop structures**
+---
 
+**Last Updated:** October 2025
