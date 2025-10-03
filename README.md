@@ -21,9 +21,9 @@
 
 ### 🔧 **Core Concepts Mastered:**
 
-- **Basic I/O operations** (ex06, ex07)
-- **Conditional logic** (ex08 - number sign checking)
-- **Pointer manipulation** (ex09 - pass by reference)
-- **Character output** with ft_putchar
-- **Loop structures** for sequence generation
+- **Basic I/O operations**
+- **Conditional logic**
+- **Pointer manipulation**
+- **Character output**
+- **Loop structures**
 
