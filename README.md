@@ -27,18 +27,3 @@
 - **Character output** with ft_putchar
 - **Loop structures** for sequence generation
 
-## 🎯 Currently Implemented
-
-### ✅ **Exercise 06: ft_print_alphabet**
-
-```c
-void ft_print_alphabet(void)
-{
-    char c = 'a';
-    while (c <= 'z')
-    {
-        ft_putchar(c);
-        c++;
-    }
-}
-```
