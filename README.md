@@ -1,4 +1,4 @@
-k# Piscine Reloaded 🏊‍♂️
+# Piscine Reloaded 🏊‍♂️
 
 42 School Piscine Reloaded - Revisiting and mastering fundamental C programming concepts.
 
