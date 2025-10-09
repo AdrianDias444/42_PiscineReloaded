@@ -1,2 +1,2 @@
-find . \( -name '*~' -o -name '#*#' \) -exec rm {} \;
+find . \( -name '*~' -o -name '#*#' \) -exec rm -v {} \;
 
